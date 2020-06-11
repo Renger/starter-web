@@ -3,3 +3,7 @@
 ## Introduction
 
 ## The basics
+
+## The commands
+
+## The details
