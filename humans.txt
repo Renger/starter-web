@@ -8,7 +8,7 @@
 
 # THANKS
 
-    <name>
+    Renger Jellema
 
 # TECHNOLOGY COLOPHON
 
