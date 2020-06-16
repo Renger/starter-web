@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- Renger -- <twitter>
+    Renger Jellema
+    renger.jellema@gmail.com
 
 # THANKS
 
