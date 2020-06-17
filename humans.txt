@@ -3,6 +3,7 @@
 
 	This is to create real issues with merging / rebasing
 	Making some changes in local repository
+	Added something to test stash
 
 # TEAM
 
@@ -19,3 +20,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
