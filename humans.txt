@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 	This is to create real issues with merging / rebasing
+	Making some changes in local repository
 
 # TEAM
 
