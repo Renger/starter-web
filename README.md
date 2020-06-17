@@ -13,3 +13,4 @@ Editors
 ## Content
 Rebase
 Deleting a branch
+Adding new lectures
