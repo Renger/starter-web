@@ -11,3 +11,4 @@ Review
 
 ## Content
 Rebase
+Deleting a branch
